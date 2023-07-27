@@ -1,4 +1,4 @@
-import express from './node_modules/express/index'
+import express from 'express'
 import dotenv from 'dotenv'
 import cors from 'cors'
 import config from './config/index.js'
